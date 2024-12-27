@@ -1,13 +1,41 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Justas Deveikis's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+### About me
+
+I am a final year PhD student at the University of Warwick, Coventry, UK, supervised by [Dr Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/) at the [Ultrafast & THz photonics group](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/).
+
+I use static and time-resolved spectroscopy to study the optoelectronic properties of charge carriers in semiconductors, with a focus on layered lead halide perovskites potentially applicable as efficient light emitters and encapsulation of solar cells.
+
+### Background
+I studied Physics (BSc with Hons) at Kaunas University of Technology, Lithuania. For my master's degree (MSc by Research), I moved to the University of Warwick, where I worked on developing a multi-pixel photoconductive emitter producing azimuthally- and radially-polarised THz beams, supervised by [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/).
+
+I am now a final year PhD student in the group of [Dr Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/), where I used temperature-dependent and ultrafast fs spectroscopy techniques to investigate a number of layered perovskite (LP) semiconductors to understand and quantify the influence of organic spacer on the optoelectronic properties.
+
+During my PhD, I used to be a lab demonstrator for second-year undergraduate students on nuclear magnetic resonance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+ This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +74,5 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+-->

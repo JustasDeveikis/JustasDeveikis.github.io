@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "What is Perovskite"
+excerpt: "Here I explain what a perovskite is and what we can learn from studying these materials. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Gustav Rose discovered the calcium titanium oxide mineral (chemical formula CaTiO$$_3$$) in the Ural Mountains in 1839. He named the mineral 'perovskite' after Russian mineralogist Lev Perovski. These days, the name 'perovskite' is applied to the class of compounds that have similar crystal structure as CaTiO$$_3$$ and have a general chemical formula. A$$^{2+}$$B$$^{4+}$$(X$$^{2-}$$)$$_3$$.
+
+There is a large number of cations that can be used in this crystal structure, making perovskites diverse materials.
