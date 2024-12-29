@@ -28,7 +28,7 @@ The mobility and lifetime are important parameters as they define the diffusion 
 
 $$L_D = \sqrt{\frac{\mu k_B T \tau}{e}}$$, 
 
-where $$k_B$$ is the Boltzmann's constant and $$e$$ is the fundamental charge. The diffusion length describes the average distance that electrons and holes move away from each other before they recombine and give out a photon—the phenomenon that is not desirable in photovoltaics, as charge carriers do not contribute to the generated electrical current. Given the high mobility and lifetime of electron-hole pairs in lead halide perovskites, the diffusion length $$L_D$$ is in the order of a few microns, which is much larger than a typical thickness of the perovskite thin film in a solar cell.
+where $$k_B$$ is the Boltzmann's constant, $$T$$ is temperature and $$e$$ is the fundamental charge. The diffusion length describes the average distance that electrons and holes move away from each other before they recombine and give out a photon—the phenomenon that is not desirable in photovoltaics, as charge carriers do not contribute to the generated electrical current. Given the high mobility and lifetime of electron-hole pairs in lead halide perovskites, the diffusion length $$L_D$$ is in the order of a few microns, which is much larger than a typical thickness of the perovskite thin film in a solar cell.
 
 However, they are not widely used in industry due to the poor long-term [stability](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201808843) as well as showing rapid degradation under humid environment.
 
@@ -39,6 +39,6 @@ Layered perovskites emerged as more stable alternatives to three-dimensional (3D
 
 <br/><img src='/images/LayeredPerovskite.png'>
 
-The inclusion of the long organic spacer alters optoelectronic properties dramatically. Furthermore, the fabrication of layered perovskite thin films results in [self-assembled quantum wells](https://www.nature.com/articles/s41528-018-0026-0), rather than polycrystalline films in the 3D perovskite case.
+The inclusion of the long organic spacer alters structural properties dramatically. Furthermore, the fabrication of layered perovskite thin films results in [self-assembled quantum wells](https://www.nature.com/articles/s41528-018-0026-0), rather than polycrystalline films in the 3D perovskite case. This property allows the manifestation of quantum confinement effects, which have significant effects on the optoelectronic properties.
 
 To elucidate the organic cation and inorganic lattice interaction in layered perovskites, we investigated both crystal structure and optoelectronic properties in a wide temperature range. More details could be found in this [recently published paper](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c03221)!
