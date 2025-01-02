@@ -4,9 +4,10 @@ excerpt: "Here you can find the calculator that converts wavelength into energy/
 collection: portfolio
 ---
 
+<body>
+
 <h3>Wavelength - energy - wavenumber - frequency converter</h3>
 <p>Enter a value in one of the fields, and the other values will be calculated automatically:</p>
-
 <form>
   <label for="wavelength">Wavelength (nm):</label>
   <input type="number" id="wavelength" placeholder="Enter wavelength" oninput="updateFromWavelength()" /><br/>
@@ -20,6 +21,7 @@ collection: portfolio
   <label for="frequency">Frequency (THz):</label>
   <input type="number" id="frequency" placeholder="Enter frequency" oninput="updateFromFrequency()" />
 </form>
+
 
 <script>
   const c = 3e8; // Speed of light in m/s
@@ -98,6 +100,4 @@ collection: portfolio
   }
 </script>
 
-
-
-
+</body>
