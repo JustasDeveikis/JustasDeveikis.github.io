@@ -1,6 +1,6 @@
 ---
-title: "Ultrafast Explanation of Ultrafast Spectroscopy"
-excerpt: "A short introduction to ultrafast spectroscopy. <br/><img src='/images/UltrafasSpectroscopyIntro.png'>"
+title: "Ultrashort Introduction to Ultrafast Spectroscopy"
+excerpt: "A brief introduction to ultrafast spectroscopy. <br/><img src='/images/UltrafasSpectroscopyIntro.png'>"
 collection: portfolio
 ---
 

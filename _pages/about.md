@@ -9,16 +9,15 @@ redirect_from:
 
 ### About me
 
-I am a final year PhD student at the University of Warwick, Coventry, UK, supervised by [Dr Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/) at the [Ultrafast & THz photonics group](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/).
+I am a final year PhD student at the University of Warwick, Coventry, UK, supervised by [Dr. Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/) at the [Ultrafast & THz photonics group](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/).
 
-I use static and time-resolved spectroscopy to study the optoelectronic properties of charge carriers in semiconductors, with a focus on layered lead halide perovskites potentially applicable as efficient light emitters and encapsulation of solar cells.
+I use static and time-resolved spectroscopy to study the optoelectronic properties of charge carriers in semiconductors, with a focus on [layered lead halide perovskites](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202003877) potentially applicable as [efficient light emitters](https://www.nature.com/articles/s41528-018-0026-0) and [encapsulation of solar cells](https://www.science.org/doi/10.1126/sciadv.aaw2543).
 
 ### Background
-I studied Physics (BSc with Hons) at Kaunas University of Technology, Lithuania. For my master's degree (MSc by Research), I moved to the University of Warwick, where I worked on developing a multi-pixel photoconductive emitter producing azimuthally- and radially-polarised THz beams, supervised by [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/).
+I am conducting my PhD in the group of [Dr. Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/), During my PhD I used temperature-dependent and ultrafast fs spectroscopy techniques to investigate a number of layered perovskite (LP) semiconductors to study the influence of organic spacer on the optoelectronic properties.
 
-I am now a final year PhD student in the group of [Dr Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/), where I used temperature-dependent and ultrafast fs spectroscopy techniques to investigate a number of layered perovskite (LP) semiconductors to understand and quantify the influence of organic spacer on the optoelectronic properties.
+I completed my master's degree (MSc by Research) at the University of Warwick, where I worked on developing a [multi-pixel photoconductive emitter producing azimuthally- and radially-polarised THz beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-24-43293&id=518962), supervised by [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/). For my undergraduate degree, I studied Physics (BSc with Hons) at Kaunas University of Technology, Lithuania.
 
-During my PhD, I used to be a lab demonstrator for second-year undergraduate students on nuclear magnetic resonance.
 
 
 

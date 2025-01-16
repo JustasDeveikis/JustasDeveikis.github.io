@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Justas Deveikis's Homepage"
+title                    : "Justas Deveikis"
 title_separator          : "-"
 name                     : &name "Justas Deveikis"
 description              : &description "personal description"
