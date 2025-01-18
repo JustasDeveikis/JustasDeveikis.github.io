@@ -13,6 +13,17 @@ I am a final year PhD student at the University of Warwick, Coventry, UK, superv
 
 I use static and time-resolved spectroscopy to study the optoelectronic properties of charge carriers in semiconductors, with a focus on [layered lead halide perovskites](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202003877) potentially applicable as [efficient light emitters](https://www.nature.com/articles/s41528-018-0026-0) and [encapsulation of solar cells](https://www.science.org/doi/10.1126/sciadv.aaw2543).
 
+
+<div style="white-space: nowrap;">
+    <a href="https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/" target="_blank">
+        <img src="/images/UoWlogo.png" alt="University Logo" style="width: 300px; height: auto;">
+    </a>
+    <a href="https://warwick.ac.uk/research/rtp/wcus/" target="_blank">
+        <img src="/images/WCUSlogo.png" alt="WCUS Logo" style="width: 400px; height: auto;">
+    </a>
+</div>
+
+
 ### Background
 I am conducting my PhD in the group of [Dr. Rebecca Milot](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/becky/) and [Prof. James Lloyd-Hughes](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/group/james/), During my PhD I used temperature-dependent and ultrafast fs spectroscopy techniques to investigate a number of layered perovskite (LP) semiconductors to study the influence of organic spacer on the optoelectronic properties.
 
